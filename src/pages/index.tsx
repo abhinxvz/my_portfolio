@@ -124,3 +124,4 @@ export default function Home() {
           li.classList.add("nav-active");
           console.log(li.getAttribute("href"));
         }
+    }
