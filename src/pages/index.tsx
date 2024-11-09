@@ -203,7 +203,7 @@ export default function Home() {
                 data-scroll-speed=".06"
                 className="mt-1 max-w-lg tracking-tight text-muted-foreground 2xl:text-xl"
               >
-                Hey, this is Abhinav Singh, a passionate full-stack developer and graphic designer. With expertise in color theory, typography, and proficiency in tools like Photoshop, Illustrator, Figma, and Premiere Pro, I blend creativity with technical precision. I love building intuitive digital experiences, from dynamic front-end designs to robust back-end functionality. My work is inspired by the seamless integration of design and development, ensuring impactful and user-friendly solutions.
+                A passionate full-stack developer and graphic designer. With expertise in color theory, typography, and proficiency in tools like Photoshop, Illustrator, Figma, and Premiere Pro, I blend creativity with technical precision. I love building intuitive digital experiences, from dynamic front-end designs to robust back-end functionality. My work is inspired by the seamless integration of design and development, ensuring impactful and user-friendly solutions.
               </p>
             </div>
             <span
